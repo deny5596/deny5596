@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deny5596
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning ReactJS, NodeJS and some NoSQL database technologies.
+- 🌱 I’m currently experienced in React JS, Node JS, Next.js and some NoSQL database technologies.
 - 💞️ I’m looking to collaborate on Web technology products
 - 📫 You can reach me at mtdeny5596@gmail.com
 
